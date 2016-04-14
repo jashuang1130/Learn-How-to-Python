@@ -2,7 +2,7 @@
 
 --Simple Projects--
 
-Menu.py - create desert menu. output the ordered items and total cost.
+desert_menu.py - create desert menu. output the ordered items and total cost.
 
 
 --Bioinformatics-- 
