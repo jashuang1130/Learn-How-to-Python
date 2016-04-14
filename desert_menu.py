@@ -1,5 +1,4 @@
-# Desert Menue
-
+# Desert Menu
 print ''
 print '+--------[ Desert Menu ]---------+'
 print '| 1. Tiramisu            $ 10.00 |'
