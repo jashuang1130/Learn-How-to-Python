@@ -36,25 +36,19 @@ if choice == "GC":
 	print "The GC content for BRCA1 is "+ str(GC)
 	print "Which is " + str(percent_GC) + "%"
 	print " "
-	# printing A and T in one line  print "The number of A's are %s, number of T's are %s" %(A, T)
-	print "The total nucleic acid content is:  "
-	print "The number of A's are " + str(A)
-	print "The number of T's are " + str(T)
-	print "The number of G's are " + str(G)
-	print "The number of C's are " + str(C)
-	print " "
 
 elif choice == "AT":
 	print "The AT content for BRCA1 is "+ str(AT)
 	print "Which is " + str(percent_AT) + "%"
 	print " "
-	# printing A and T in one line  print "The number of A's are %s, number of T's are %s" %(A, T)
-	print "The total nucleic acid content is:  "
-	print "The number of A's are " + str(A)
-	print "The number of T's are " + str(T)
-	print "The number of G's are " + str(G)
-	print "The number of C's are " + str(C)
-	print " "
 
 else:
 	print "You've enterted: %s This is not a valid choice. " % choice
+	
+# printing A and T in one line  print "The number of A's are %s, number of T's are %s" %(A, T)
+print "The total nucleic acid content is:  "
+print "The number of A's are " + str(A)
+print "The number of T's are " + str(T)
+print "The number of G's are " + str(G)
+print "The number of C's are " + str(C)
+print " "
