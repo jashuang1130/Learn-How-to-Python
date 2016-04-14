@@ -1,4 +1,4 @@
-# Learning how to write programs with python
+# PythonProjects
 
 --Simple Projects--
 Menu.py - create desert menu. output the ordered items and total cost.
