@@ -1,5 +1,5 @@
 # Desert Menue
-# from math import sum
+
 print ''
 print '+--------[ Desert Menu ]---------+'
 print '| 1. Tiramisu            $ 10.00 |'
